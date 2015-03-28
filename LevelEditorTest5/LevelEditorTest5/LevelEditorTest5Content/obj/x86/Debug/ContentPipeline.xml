@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>content\buttons\ArrowButtonsGray.png</Source>
+      <Name>content\buttons\ArrowButtonsGray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\ArrowButtonsGray.xnb</Output>
+      <Time>2013-02-21T18:18:58.0618718+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\EmptyButton.png</Source>
+      <Name>content\buttons\EmptyButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\EmptyButton.xnb</Output>
+      <Time>2013-02-21T18:18:58.0648719+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\EraserButton.png</Source>
+      <Name>content\buttons\EraserButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\EraserButton.xnb</Output>
+      <Time>2013-02-23T19:07:22.2333386+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\fillButton.png</Source>
+      <Name>content\buttons\fillButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\fillButton.xnb</Output>
+      <Time>2013-02-21T18:18:58.0688722+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\layer1switch.png</Source>
+      <Name>content\buttons\layer1switch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer1switch.xnb</Output>
+      <Time>2013-02-21T18:18:58.0708723+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\layer2switch.png</Source>
+      <Name>content\buttons\layer2switch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer2switch.xnb</Output>
+      <Time>2013-02-21T18:18:58.0738725+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\layer3switch.png</Source>
+      <Name>content\buttons\layer3switch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer3switch.xnb</Output>
+      <Time>2013-02-21T18:18:58.0778727+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\layerSwitchOnOff.png</Source>
+      <Name>content\buttons\layerSwitchOnOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layerSwitchOnOff.xnb</Output>
+      <Time>2013-02-21T18:18:58.0798728+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\levelSelection.png</Source>
+      <Name>content\buttons\levelSelection</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\levelSelection.xnb</Output>
+      <Time>2013-02-21T18:18:58.0808729+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\LoadButton.png</Source>
+      <Name>content\buttons\LoadButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\LoadButton.xnb</Output>
+      <Time>2013-02-21T18:18:58.082873+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\newButton.png</Source>
+      <Name>content\buttons\newButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\newButton.xnb</Output>
+      <Time>2013-02-21T18:18:58.0848731+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\NormalArrowButtons.png</Source>
+      <Name>content\buttons\NormalArrowButtons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\NormalArrowButtons.xnb</Output>
+      <Time>2013-02-21T18:18:58.0858731+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\buttons\saveButton.png</Source>
+      <Name>content\buttons\saveButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\saveButton.xnb</Output>
+      <Time>2013-02-21T18:18:58.0888733+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\menus\fileMenu.png</Source>
+      <Name>content\menus\fileMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\fileMenu.xnb</Output>
+      <Time>2013-02-23T23:06:28.1965099+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\menus\Interface.png</Source>
+      <Name>content\menus\Interface</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\Interface.xnb</Output>
+      <Time>2013-02-21T18:18:58.0968738+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\menus\layerMenu.png</Source>
+      <Name>content\menus\layerMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\layerMenu.xnb</Output>
+      <Time>2013-02-23T23:18:37.4312198+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\menus\MapMenu.png</Source>
+      <Name>content\menus\MapMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\MapMenu.xnb</Output>
+      <Time>2013-02-23T23:10:58.0079423+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\menus\selectedMenu.png</Source>
+      <Name>content\menus\selectedMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\selectedMenu.xnb</Output>
+      <Time>2013-02-23T23:09:52.1931779+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\menus\TilesetMenu.png</Source>
+      <Name>content\menus\TilesetMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\TilesetMenu.xnb</Output>
+      <Time>2013-02-23T23:11:27.1536093+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\menus\movingBackgroundTile.png</Source>
+      <Name>content\menus\movingBackgroundTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\movingBackgroundTile.xnb</Output>
+      <Time>2013-02-23T23:32:53.3541758+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\menus\movingBackgroundTile2.png</Source>
+      <Name>content\menus\movingBackgroundTile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\movingBackgroundTile2.xnb</Output>
+      <Time>2013-02-24T00:33:05.138758+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\tilesets\tileset1.png</Source>
+      <Name>content\tilesets\tileset1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset1.xnb</Output>
+      <Time>2013-02-24T16:13:53.3053584+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\tilesets\tileset3.png</Source>
+      <Name>content\tilesets\tileset3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset3.xnb</Output>
+      <Time>2013-02-24T16:13:53.3103587+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\tilesets\tileset4.png</Source>
+      <Name>content\tilesets\tileset4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset4.xnb</Output>
+      <Time>2013-02-24T16:13:53.3123588+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\tilesets\tileset5.png</Source>
+      <Name>content\tilesets\tileset5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset5.xnb</Output>
+      <Time>2013-02-24T16:13:53.3133589+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\tilesets\tileset7.png</Source>
+      <Name>content\tilesets\tileset7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset7.xnb</Output>
+      <Time>2013-02-24T16:13:53.2953578+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\tilesets\tileset8.png</Source>
+      <Name>content\tilesets\tileset8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset8.xnb</Output>
+      <Time>2013-02-24T16:13:53.3033583+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\tilesets\tileset6.png</Source>
+      <Name>content\tilesets\tileset6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset6.xnb</Output>
+      <Time>2013-02-24T16:29:48.4949921+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\tilesets\tileset2.png</Source>
+      <Name>content\tilesets\tileset2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset2.xnb</Output>
+      <Time>2013-02-24T16:59:50.8980837+01:00</Time>
+    </Item>
+    <Item>
+      <Source>content\zelda\tileset1.png</Source>
+      <Name>content\zelda\tileset1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\zelda\tileset1.xnb</Output>
+      <Time>2013-05-16T11:07:33.2769638+02:00</Time>
+    </Item>
+    <Item>
+      <Source>content\tilesets\tileset9.png</Source>
+      <Name>content\tilesets\tileset9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset9.xnb</Output>
+      <Time>2013-06-06T10:08:07.3626941+02:00</Time>
+    </Item>
+    <Item>
+      <Source>content\tilesets\tileset10.png</Source>
+      <Name>content\tilesets\tileset10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset10.xnb</Output>
+      <Time>2013-06-13T09:17:16.3481814+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-10T19:55:54.7882652+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

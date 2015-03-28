@@ -1,0 +1,119 @@
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\LevelEditorTest5.exe
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\LevelEditorTest5.pdb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.exe
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.pdb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\ArrowButtonsGray.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\EmptyButton.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\EraserButton.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\fillButton.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer1switch.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer2switch.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer3switch.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layerSwitchOnOff.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\levelSelection.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\LoadButton.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\newButton.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\NormalArrowButtons.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\saveButton.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\fileMenu.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\Interface.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\layerMenu.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\MapMenu.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\selectedMenu.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\TilesetMenu.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset2.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\movingBackgroundTile.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\movingBackgroundTile2.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset1.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset3.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset4.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset5.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset6.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset7.xnb
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset8.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\ArrowButtonsGray.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\EmptyButton.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\EraserButton.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\fillButton.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer1switch.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer2switch.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer3switch.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layerSwitchOnOff.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\levelSelection.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\LoadButton.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\newButton.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\NormalArrowButtons.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\saveButton.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\fileMenu.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\Interface.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\layerMenu.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\MapMenu.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\selectedMenu.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\TilesetMenu.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\movingBackgroundTile.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\movingBackgroundTile2.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset1.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset3.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset4.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset5.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset7.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset8.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset6.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset2.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\LevelEditorTest5.exe
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\LevelEditorTest5.pdb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.exe
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.pdb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\LevelEditorTest5.exe.manifest
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\LevelEditorTest5.application
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.exe.manifest
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.application
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\zelda\tileset1.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset9.xnb
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset10.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\ArrowButtonsGray.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\EmptyButton.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\EraserButton.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\fillButton.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer1switch.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer2switch.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layer3switch.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\layerSwitchOnOff.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\levelSelection.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\LoadButton.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\newButton.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\NormalArrowButtons.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\buttons\saveButton.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\fileMenu.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\Interface.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\layerMenu.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\MapMenu.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\selectedMenu.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\TilesetMenu.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\movingBackgroundTile.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\menus\movingBackgroundTile2.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset1.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset3.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset4.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset5.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset7.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset8.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset6.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset2.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\zelda\tileset1.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset9.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\Content\content\tilesets\tileset10.xnb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\LevelEditorTest5.exe.manifest
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\LevelEditorTest5.application
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\LevelEditorTest5.exe
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\bin\x86\Debug\LevelEditorTest5.pdb
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.csprojResolveAssemblyReference.cache
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.exe.manifest
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.application
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.exe
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5\obj\x86\Debug\LevelEditorTest5.pdb

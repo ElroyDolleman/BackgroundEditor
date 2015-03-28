@@ -1,0 +1,3 @@
+C:\Users\ERD\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elroy\Documents\school\xna\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elroy\Documents\school\xna\Oefening\level editor\level editor test 5\LevelEditorTest5\LevelEditorTest5\LevelEditorTest5Content\obj\x86\Debug\LevelEditorTest5Content.contentprojResolveAssemblyReference.cache
